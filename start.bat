@@ -1,0 +1,2 @@
+node .
+nodemon

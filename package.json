@@ -1,0 +1,38 @@
+{
+  "name": "register",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "star": "nodemon"
+  },
+  "keywords": [],
+  "author": "Anaxy",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "@napi-rs/canvas": "^0.1.39",
+    "ascii-table": "^0.0.9",
+    "bcrypt": "^5.0.1",
+    "better-sqlite3": "^7.6.0",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.26.1",
+    "discord-html-transcripts": "^2.5.8",
+    "discord-modals": "^1.3.7",
+    "discord.js": "^13.11.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "glob": "^8.0.3",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.2.6",
+    "pouchdb": "^7.3.0",
+    "pouchdb-find": "^7.3.0",
+    "promise-mysql": "^5.2.0",
+    "quick.db": "^7.1.3",
+    "samp-query": "^0.1.5"
+  },
+  "description": "registerrurp",
+  "devDependencies": {}
+}
